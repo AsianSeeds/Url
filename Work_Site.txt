@@ -1,0 +1,22 @@
+http://build.nc.cow/view/old/job/NaviCoreAndroidTrunk/
+给3和1发版的sdk server
+
+http://docs.navicore.mapbar.com/docs/navicore-public-documents/release-notes/5.1.html
+引擎5.1说明文档
+
+http://xwiki.nc.cow/bin/view/RD1/First+day+at+Mapbar
+引擎组wiki主页
+
+file://///storeserver1/Shares/nc_share/software/
+文件目录
+
+
+http://xwiki.nc.cow/bin/view/Main/
+wiki site
+
+
+cn_20151105_db (file://YQ-YANGXIAOQIAN/cn_20151105_db)
+新版数据
+
+cn_3in1_20150629 (file://YQ-YANGXIAOQIAN/cn_3in1_20150629)
+老版数据

@@ -1,0 +1,8 @@
+first
+	...typedef struct TTSPlayerJNI
+		...
+		jmethod forceStopMid -> target mid
+	TTSPlayerJNI
+
+then in _TTSPlayerJNI_init
+	o->forceStopMid = (*env)->GetStaticMethodID(env,o->TTSPlayerCls,"forceStop","()V")

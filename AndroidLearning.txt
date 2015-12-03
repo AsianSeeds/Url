@@ -1,0 +1,17 @@
+http://www.cnblogs.com/hawkon/p/3593709.html
+github 上值得学习的项目
+
+http://developer.xamarin.com/api/type/Android.Media.AudioManager/
+xamarin
+
+http://blog.csdn.net/luoshengyang/article/details/8923485
+老罗的博客。认真的看。	
+
+http://mindtherobot.com/blog/
+android robot
+
+http://www.cnblogs.com/lijunamneg/archive/2012/12/22/2829084.html
+JNI 学习
+
+http://doc.okbase.net/shaohuazuo/archive/125489.html
+JNI 学习网址
