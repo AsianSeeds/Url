@@ -1,1 +1,4 @@
 http://www.cnblogs.com/peida/archive/2012/11/29/2794010.html
+
+http://man.linuxde.net/mknod
+linux 命令

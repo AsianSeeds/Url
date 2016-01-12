@@ -1,4 +1,4 @@
-http://www.cnblogs.com/hawkon/p/3593709.html
+﻿http://www.cnblogs.com/hawkon/p/3593709.html
 github 上值得学习的项目
 
 http://developer.xamarin.com/api/type/Android.Media.AudioManager/
@@ -15,3 +15,12 @@ JNI 学习
 
 http://doc.okbase.net/shaohuazuo/archive/125489.html
 JNI 学习网址
+
+http://blog.csdn.net/scry5566/article/details/9378717#
+nice site
+
+http://blog.csdn.net/fznpcy/article/details/8658155
+android introduce adapter mode in android
+
+http://bbs.anzhuo.cn/thread-982250-1-1.html
+android BT site

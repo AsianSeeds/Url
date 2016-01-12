@@ -20,3 +20,6 @@ cn_20151105_db (file://YQ-YANGXIAOQIAN/cn_20151105_db)
 
 cn_3in1_20150629 (file://YQ-YANGXIAOQIAN/cn_3in1_20150629)
 老版数据
+
+https://jira.mapbar.com/browse/NAVIDOG
+导航犬bug目录
